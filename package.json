@@ -1,0 +1,24 @@
+{
+  "name": "express-get-route",
+  "version": "1.0.0",
+  "description": "get express route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheryRandrianirina/express-get-route.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "get"
+  ],
+  "author": "yamisan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheryRandrianirina/express-get-route/issues"
+  },
+  "homepage": "https://github.com/MaheryRandrianirina/express-get-route#readme"
+}
